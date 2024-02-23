@@ -1,4 +1,7 @@
 ### Hi there 👋
+_You can call me Mmesoma_
+**I'm a CoGrammar/Hyperiondev Trainee**
+_I am a student of the University of Sunderland_
 
 I am interested in python
 
